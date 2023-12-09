@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/zhJqXWG/2.png" />
+<img src="https://i.ibb.co/jzxT2Q3/2.png" />
 
 
 <h1 align="center">Hi 👋, I'm Tafiyatul Jannat</h1>
@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tafiya&label=Profile%20views&color=0e75b6&style=flat" alt="tafiya" /> </p>
 
-- 🔭 I’m currently studying in [Mawlana Bhashani Science and Technology University(MBSTU)](https://mbstu.ac.bd/)
+- 🔭 I’m currently studying at [Mawlana Bhashani Science and Technology University(MBSTU)](https://mbstu.ac.bd/)
 
 - 🌱 I’m currently learning **React,Next.js**
 
