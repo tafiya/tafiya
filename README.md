@@ -49,7 +49,42 @@
 - <h4 align="left">Others::</h4>  
       <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
  
+  <h2 align="left">Latest Project:</h2> 
+  
+  <h3 align="left">1. Chat Nook (Online Forum)</h3>
+  <a href="https://bistro-boss-client-ff83b.web.app/">Chatnook Live Link </a>
 
+  Admin email: jannat39@gmail.com
+ Admin password: Tafiya1234@
+
+- We can find different types of posts.
+- Anyone can see all Post.
+-normal users can create posts, view post, comment on posts, see his profile
+- admin can handle user, make admin, delete use
+- there are two types of users. admin and normal user
+- The user must sign in if he/she wants to create a Post. and comment on the post.
+
+   <h3 align="left">2. Beautylicious (Cosmetics and Beauty Shop)</h3>
+ 
+  <a href="https://cosmetics-brand-base-client.web.app/">Beautylicious Live Link </a>
+
+- We can find different type of products according the band name..
+- User can add ,Update,delete data from database.
+-User must sign in if he/she wants to see the detail of the products and add to cart it.
+- Here some customer review .
+- User can add their desire product in cart.
+  
+  <h3 align="left">3. online-education (Online-Study-Group)</h3>
+ 
+  <a href="https://playful-seahorse-1687f4.netlify.app/">online-education Live Link </a>
+
+- We can find different type of Assignment.
+- Anyone can see all Assignment.
+-User must sign in if he/she wants to see the detail of the Assignment and take assignment .
+- the user update an assignment task who has created it
+- User can submit pdf link in make assignment form
+
+ 
 
 
 
