@@ -53,7 +53,7 @@
   
   <h3 align="left">1. online-education (Online-Study-Group)</h3>
  
-  <a href="https://playful-seahorse-1687f4.netlify.app/">online-education Live Link </a>
+  <a href="https://65e78999df3aec6b6a93e12d--heroic-selkie-4e7024.netlify.app/">online-education Live Link </a>
 
 - We can find different type of Assignment.
 - Anyone can see all Assignment.
