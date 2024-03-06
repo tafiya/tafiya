@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/jzxT2Q3/2.png" />
+<img src="https://i.ibb.co/GJ515Np/linkdin-Cover.jpg" />
 
 
 <h1 align="center">Hi 👋, I'm Tafiyatul Jannat</h1>
