@@ -51,27 +51,7 @@
  
   <h2 align="left">Latest Project:</h2> 
   
-  <h3 align="left">1. online-education (Online-Study-Group)</h3>
- 
-  <a href="https://65e78999df3aec6b6a93e12d--heroic-selkie-4e7024.netlify.app/">online-education Live Link </a>
-
-- We can find different type of Assignment.
-- Anyone can see all Assignment.
--User must sign in if he/she wants to see the detail of the Assignment and take assignment .
-- the user update an assignment task who has created it
-- User can submit pdf link in make assignment form
-
-   <h3 align="left">2. Beautylicious (Cosmetics and Beauty Shop)</h3>
- 
-  <a href="https://cosmetics-brand-base-client.web.app/">Beautylicious Live Link </a>
-
-- We can find different type of products according the band name..
-- User can add ,Update,delete data from database.
--User must sign in if he/she wants to see the detail of the products and add to cart it.
-- Here some customer review .
-- User can add their desire product in cart.
-  
-  <h3 align="left">3. Chat Nook (Online Forum)</h3>
+  <h3 align="left">1. Chat Nook (Online Forum)</h3>
   <a href="https://bistro-boss-client-ff83b.web.app/">Chatnook Live Link </a>
 
   Admin email: jannat39@gmail.com
@@ -79,11 +59,31 @@
 
 - We can find different types of posts.
 - Anyone can see all Post.
--normal users can create posts, view post, comment on posts, see his profile
+-normal users can create posts, view posts, comment on posts, see their profile
 - admin can handle user, make admin, delete use
 - there are two types of users. admin and normal user
 - The user must sign in if he/she wants to create a Post. and comment on the post.
 
+   <h3 align="left">2. Beautylicious (Cosmetics and Beauty Shop)</h3>
+ 
+  <a href="https://cosmetics-brand-base-client.web.app/">Beautylicious Live Link </a>
+
+- We can find different types of products according to the band name.
+- User can add, Update, and delete data from the database.
+-The user must sign in if he/she wants to see the details of the products and add them to the cart .
+- Here are some customer reviews.
+- User can add their desired product in the cart.
+  
+
+  <h3 align="left">3. online-education (Online-Study-Group)</h3>
+ 
+  <a href="https://65e78999df3aec6b6a93e12d--heroic-selkie-4e7024.netlify.app/">online-education Live Link </a>
+
+- We can find different types of Assignments.
+- Anyone can see all Assignments.
+-The user must sign in if he/she wants to see the detail of the Assignment and take assignment.
+- the user updates an assignment task who has created it
+- User can submit pdf link in making assignment form
 
  
 
