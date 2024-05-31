@@ -64,7 +64,15 @@
 - there are two types of users. admin and normal user
 - The user must sign in if he/she wants to create a Post. and comment on the post.
 
-   <h3 align="left">2. Beautylicious (Cosmetics and Beauty Shop)</h3>
+  <h3 align="left">2. GREENMIND (E-commerce Product Review Platform)</h3>
+ 
+  <a href="https://ecomerce-product-review.web.app/">GREENMIND Live Link </a>
+
+- Product Browsing and Search: Display featured products, provide a search bar, and category navigation.
+- Product Detailed View: Display products with images, prices, ratings, and sorting/filtering options.
+-User Reviews and Ratings: Display overall and individual ratings, allowing logged-in users to submit reviews
+
+   <h3 align="left">3. Beautylicious (Cosmetics and Beauty Shop)</h3>
  
   <a href="https://cosmetics-brand-base-client.web.app/">Beautylicious Live Link </a>
 
@@ -75,20 +83,8 @@
 - User can add their desired product in the cart.
   
 
-  <h3 align="left">3. online-education (Online-Study-Group)</h3>
- 
-  <a href="https://65e78999df3aec6b6a93e12d--heroic-selkie-4e7024.netlify.app/">online-education Live Link </a>
-
-- We can find different types of Assignments.
-- Anyone can see all Assignments.
--The user must sign in if he/she wants to see the detail of the Assignment and take assignment.
-- the user updates an assignment task who has created it
-- User can submit pdf link in making assignment form
 
  
-
-
-
 <h3 align="left">Work Description:</h3>
 
 - I build dynamic web applications as a MEAN stack developer, using MongoDB, Express.js, Angular, and Node.js.
