@@ -1,11 +1,11 @@
-<a href="https://www.facebook.com/mirhussainmurtaza/">
-<img src="https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/cover.svg" />
+<a href="https://web.facebook.com/tafiyapinkey/">
+<img src="https://res.cloudinary.com/demnpqwx3/image/upload/v1744206642/_Blue_Futuristic_Technology_LinkedIn_Banner_smhmir.png" />
 </a>
 
 ## 🙋‍♀️ About Me
 
 <p>
-Hello 👋, I’m Tafiya 😊, a passionate and results-driven Full Stack Web Developer and MERN Stack Specialist who seamlessly blends elegant frontend design with powerful backend logic to craft exceptional digital experiences. I’m currently studying (M.Engg in Computer Science and Engineering 💻 ) at  [Mawlana Bhashani Science and Technology University(MBSTU)](https://mbstu.ac.bd/) .
+Hello 👋, I’m Tafiya 😊, a passionate and results-driven Full Stack Web Developer and MERN Stack Specialist who seamlessly blends elegant frontend design with powerful backend logic to craft exceptional digital experiences. I’m currently studying (M.Engg in Computer Science and Engineering 💻 ) at Mawlana Bhashani Science and Technology University.
 
 </p>
 
