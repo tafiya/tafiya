@@ -14,13 +14,18 @@ Hello 👋, I’m Tafiya 😊, a passionate and results-driven Full Stack Web De
 ## :chart_with_upwards_trend: Current GitHub Stats
 
 <br />
+
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=tafiya&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=tafiya&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
-<p align="center">
+<!-- <p align="center">
   <img align="right" height=200 width=390 src="https://github-readme-stats.vercel.app/api?username=tafiya&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="tafiya" />
  <img height=200 width=390  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tafiya&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-</p>
+</p> -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tafiya&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" style="display: inline-block; width: 40%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tafiya&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="display: inline-block; width: 40%;" />
+</div>
 
 ## :mailbox: Reach me out
 
@@ -75,3 +80,12 @@ Hello 👋, I’m Tafiya 😊, a passionate and results-driven Full Stack Web De
 <!-- BLOG-POST-LIST:START -->
 - [TutorLink](https://tutor-link-frontend-project.vercel.app/)
 - [ReadScape](https://book-shop-frontend-project.vercel.app/)
+
+<h1 align="left" style="color: #FFAA33; font-family: Arial, sans-serif;">📊 GitHub Activity Graph</h1>
+<div align="center" style="background-color: #1A1B27; border-radius: 10px; padding: 20px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=tafiya&theme=tokyo-night" 
+    alt="GitHub Activity Graph" 
+    style="border-radius: 10px; max-width: 100%; height: auto;"
+  />
+</div>
