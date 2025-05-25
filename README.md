@@ -31,7 +31,7 @@ Hello 👋, I’m Tafiya 😊, a passionate and results-driven Full Stack Web De
 
 <br />
 
-[<p align="center"><img height="75" src="https://img.icons8.com/color/48/000000/linkedin.png">](https://www.linkedin.com/in/tafiyatuljannat/)[<img height="75" src="https://img.icons8.com/color/48/000000/facebook-new.png">](https://web.facebook.com/tafiyapinkey/)[<img height="75" src="https://img.icons8.com/color/48/000000/gmail-new.png"> </p>](mailto:tafiapinkey@gmail.com_)
+[<p align="center">[<img height="75" src="https://img.icons8.com/color/48/000000/linkedin.png">](https://www.linkedin.com/in/tafiyatuljannat/)[<img height="75" src="https://img.icons8.com/color/48/000000/facebook-new.png">](https://web.facebook.com/tafiyapinkey/)[<img height="75" src="https://img.icons8.com/color/48/000000/gmail-new.png"> </p>](mailto:tafiapinkey@gmail.com)
 
 <br />
 
