@@ -14,14 +14,14 @@ Hello 👋, I’m Tafiya 😊, a passionate and results-driven Full Stack Web De
 ## :chart_with_upwards_trend: Current GitHub Stats
 
 <br />
- <p align="center">
-  <img align="right" height=200 width=390 src="https://github-readme-stats.vercel.app/api?username=tafiya&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="tafiya" />
- <img height=200 width=390  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tafiya&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-</p>
- <div align="center">
+
+<!--   <img align="right" height=200 width=390 src="https://github-readme-stats.vercel.app/api?username=tafiya&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="tafiya" /> -->
+<!--  <img height=200 width=390  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tafiya&show_icons=true&locale=en&layout=compact&theme=tokyonight" /> -->
+
+<!--  <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tafiya&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" style="display: inline-block; width: 40%;" />
   <img src="https://github-readme-stats.vercel.app/api?username=tafiya&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="display: inline-block; width: 40%;" />
-</div>
+</div> -->
 
 <div align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tafiya&theme=dark" height="203em" />
