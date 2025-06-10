@@ -86,8 +86,9 @@ Hello 👋, I’m Tafiya 😊, a passionate and results-driven Full Stack Web De
 - [TutorLink](https://tutor-link-frontend-project.vercel.app/)
 - [ReadScape](https://book-shop-frontend-project.vercel.app/)
 
-<h1 align="left" style="color: #FFAA33; font-family: Arial, sans-serif;">📊 GitHub Activity:</h1>
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=tafiya&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
-</p>
+
+<!-- <p align="center"> -->
+<!-- <h1 align="left" style="color: #FFAA33; font-family: Arial, sans-serif;">
+  📊 GitHub Activity:</h1>  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=tafiya&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" /> -->
+<!-- </p> -->
 </div>
